@@ -1,6 +1,6 @@
 ## Using Markdown
 #### Formatting Tools
-You can use a reuglar link https://www.google.com/ or do this [Google](https://www.google.com/)
+You can use a regular link https://www.google.com/ or do this [Google](https://www.google.com/)
 
 The strikethrough tool is certainly ~~striking~~
 
