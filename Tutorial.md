@@ -34,6 +34,6 @@ End of blockquote.
 
 ![alt text](https://pbs.twimg.com/profile_images/1017516299143041024/fLFdcGsl_400x400.jpg)
 
-![alt text](https://user-images.githubusercontent.com/42586542/44935617-0b592c00-ad37-11e8-88ce-a012581627f9.png)
+![alt text](https://github.com/SooDone/Challenge-Git-Github-and-Markdown/issues/1#issue-356122243)
 
 [README](https://github.com/SooDone/Challenge-Git-Github-and-Markdown/blob/master/README.md)
